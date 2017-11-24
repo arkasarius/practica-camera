@@ -1,6 +1,3 @@
 # practica-camera
 
-work in progress to be uploaded at a later time
-
-
-https://ionicframework.com/docs/native/camera/
+used this https://www.tutorialspoint.com/cordova/cordova_camera.htm
